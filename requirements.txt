@@ -1,0 +1,4 @@
+scipy==1.4.1
+numpy==1.18.0
+numpy-base==1.18.5
+matplotlib==3.1.2
