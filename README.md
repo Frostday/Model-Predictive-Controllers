@@ -8,7 +8,7 @@ git clone https://github.com/Frostday/Model-Predictive-Controllers.git
 ```
 * Install the necessary packages required to run the code
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 * To see highway speed control run the following command
 ```
